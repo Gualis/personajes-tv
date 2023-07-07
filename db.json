@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "nombre": "Old Lady",
+        "descripcion":"Una viejita aventurera se encuentra encerrada en una cueva y la única manera de salir es pasando cada etapa evitando obstaculos y usando las plataformas saltarinas y viento a su favor. Colecciona todas las monedas para desbloquear el final secreto.",
+        "imagen": " ../img/tvRecurso2.png"
+    },
+    {
+        "id": "2",
+        "nombre": "Goomy",
+        "descripcion":"Una pelota viviente poco agraciada que funciona dentro de un juego como un zombie que merodea de lado a lado. Evita que te toque ya que de un solo rasguño te sacará volando.",
+        "imagen": "../img/goomyRecurso.png"
+    },
+    {
+        "id": "3",
+        "nombre": "Spiky",
+        "descripcion":"Una esfera puntiaguda que oscila tanto vertical como horizontalmente. Suelen encontrarse por si sola pero rara vez se les vé oscilar en cadena. Evitalas a lo que de lugar ya que de un solo toque te derrotarán.",
+        "imagen": "../img/spiky.png"
+    },
+    {
+        "id": "4",
+        "nombre": "Koane",
+        "descripcion":"Una chica que lleva viviendo en duelo mucho tiempo. Colecciona las memorias y descubre sus problemas al mismo tiempo que la ayudas a desbloquear nuevas mecánicas y derrotar distintos enemigos.",
+        "imagen": "../img/Koane.png"
+    },
+    {
+        "id": "5",
+        "nombre": "Fly",
+        "descripcion":"Una mosca que merodea en el mundo que se encuentra Koane. Por sí solas no presentan mayor riesgo, ya que dañan poco y es fácil esquivarlas, pero en cuidado de encontrartelas en multitud.",
+        "imagen": "../img/Fly.png"
+    },
+    {
+        "id": "6",
+        "nombre": "Fury Caterpillar",
+        "descripcion":"Este enemigo parece estar quieto cuando lo encuentras, pero espera ha que te aceche a toda velocidad. Él oscila de un lado a otro a toda velocidad y rebotando una vez se encuentra con una pared.",
+        "imagen": "../img/Fury Caterpillar.png"
+    },
+    {
+        "id": "7",
+        "nombre": "Spider Boss",
+        "descripcion":"Esta araña gigante tiene una variedad de ataques. Lanza sus propios huevos, arroja telearañas que persiguen, se lanza ella misma a toda velocidad hacia Koane y oscila verticalmente mientras se acerca. Puede ser desafiante derrotarla, pero más te vale hacerlo si quieres conocer el final del juego.",
+        "imagen": "../img/Spider Boss.png"
+    }
+]
