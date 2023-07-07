@@ -3,31 +3,31 @@
         {
             "id": "1",
             "nombre": "Old Lady",
-            "descripcion":"Una viejita aventurera se encuentra encerrada en una cueva y la única manera de salir es pasando cada etapa evitando obstaculos y usando las plataformas saltarinas y viento a su favor. Colecciona todas las monedas para desbloquear el final secreto.",
+            "descripcion":"Una viejita aventurera se encuentra encerrada en una cueva y la única manera de salir es pasando cada etapa evitando obstaculos y usando las plataformas saltarinas y viento a su favor. Colecciona todas las monedas para desbloquear el final secreto."
             
         },
         {
             "id": "2",
             "nombre": "Goomy",
-            "descripcion":"Una pelota viviente poco agraciada que funciona dentro de un juego como un zombie que merodea de lado a lado. Evita que te toque ya que de un solo rasguño te sacará volando.",
+            "descripcion":"Una pelota viviente poco agraciada que funciona dentro de un juego como un zombie que merodea de lado a lado. Evita que te toque ya que de un solo rasguño te sacará volando."
             
         },
         {
             "id": "3",
             "nombre": "Spiky",
-            "descripcion":"Una esfera puntiaguda que oscila tanto vertical como horizontalmente. Suelen encontrarse por si sola pero rara vez se les vé oscilar en cadena. Evitalas a lo que de lugar ya que de un solo toque te derrotarán.",
+            "descripcion":"Una esfera puntiaguda que oscila tanto vertical como horizontalmente. Suelen encontrarse por si sola pero rara vez se les vé oscilar en cadena. Evitalas a lo que de lugar ya que de un solo toque te derrotarán."
             
         },
         {
             "id": "4",
             "nombre": "Koane",
-            "descripcion":"Una chica que lleva viviendo en duelo mucho tiempo. Colecciona las memorias y descubre sus problemas al mismo tiempo que la ayudas a desbloquear nuevas mecánicas y derrotar distintos enemigos.",
+            "descripcion":"Una chica que lleva viviendo en duelo mucho tiempo. Colecciona las memorias y descubre sus problemas al mismo tiempo que la ayudas a desbloquear nuevas mecánicas y derrotar distintos enemigos."
             
         },
         {
             "id": "5",
             "nombre": "Fly",
-            "descripcion":"Una mosca que merodea en el mundo que se encuentra Koane. Por sí solas no presentan mayor riesgo, ya que dañan poco y es fácil esquivarlas, pero en cuidado de encontrartelas en multitud.",
+            "descripcion":"Una mosca que merodea en el mundo que se encuentra Koane. Por sí solas no presentan mayor riesgo, ya que dañan poco y es fácil esquivarlas, pero en cuidado de encontrartelas en multitud."
             
         }
     ]
